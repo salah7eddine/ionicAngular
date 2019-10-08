@@ -1,0 +1,10 @@
+{
+  "appId": "com.CourseIonic.AppMobile",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://10.68.103.47:8100"
+  }
+}
